@@ -51,6 +51,19 @@ include showfacts
 # Notice: Applied catalog in 0.14 seconds
 
 #####
+# OS X
+# Notice: Scope(Class[Showfacts]): operatingsystem: Darwin
+# Notice: Scope(Class[Showfacts]): operatingsystemmajrelease: 18
+# Notice: Scope(Class[Showfacts]): operatingsystemrelease: 18.6.0
+# Notice: Scope(Class[Showfacts]): osfamily: Darwin
+# Notice: Scope(Class[Showfacts]): kernel: Darwin
+# Notice: Scope(Class[Showfacts]): facts['os']['name']: Darwin
+# Notice: Scope(Class[Showfacts]): facts['os']['family']: Darwin
+# Notice: Scope(Class[Showfacts]): facts['os']['release']['major']: 18
+# Notice: Scope(Class[Showfacts]): facts['kernel']: Darwin
+# Notice: Scope(Class[Showfacts]): facts['virtual']: physical
+
+#####
 # Windows - Powershell
 # Notice: Scope(Class[Showfacts]): operatingsystem: windows
 # Notice: Scope(Class[Showfacts]): operatingsystemmajrelease: 10
